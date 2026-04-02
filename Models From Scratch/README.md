@@ -1,0 +1,3 @@
+- Models that are covered in theory chapters from scratch in Python.
+- Each model from scratch utilized in a digit classification project.
+- Showcasing performance of different models of incresing complexity over the same task. Starting from Perceptron, linear regression, logistic regression to SVM and Neural Networks.
