@@ -1,3 +1,3 @@
 - Fundamentals of machine learning.
-- Based on the [CalTech Machine Learning](https://work.caltech.edu/telecourse) course by Professor Abu Mostafa.
+- Based on the [CalTech Machine Learning](https://work.caltech.edu/lectures.html) course by Professor Abu Mostafa.
 - Re-organized and simplified as per my perspective.
