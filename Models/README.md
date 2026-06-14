@@ -1,4 +1,0 @@
-- Models that are covered in theory chapters from scratch in Python.
-- Each model utilized for the same task, let us say MNIST hand-written digit classification.
-- Hence, showcasing performance of different models of increasing complexity over the same task.
-- Starting from Perceptron, Linear Regression, Logistic Regression to SVM and Neural Networks.
