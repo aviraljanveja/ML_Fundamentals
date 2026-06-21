@@ -1,4 +1,0 @@
-- Projects, involving models covered in theory chapters, written from scratch in Python.
-- Current Idea : Each model utilized for the same task, let us say computer visio : MNIST hand-written digit classification.
-- Hence, showcasing performance of different models of increasing complexity on the same task.
-- Starting from Perceptron, Linear Regression, Logistic Regression, SVM and finally Neural Network based models.
